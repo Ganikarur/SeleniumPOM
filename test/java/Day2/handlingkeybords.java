@@ -40,6 +40,6 @@ public static void main(String[] args) {
 		driver.findElement(By.xpath("//input[@id='small-searchterms']")).sendKeys("TShirts");
 		
 		
-	}
+}
 
 }
